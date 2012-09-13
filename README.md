@@ -11,7 +11,7 @@
 </p>
 <p>
 	Add the Syntax:
-	"	<script src = "jq.js"> </script>
-		<script src = "chart-it.js"> </script>	"
+	'	<script src = "jq.js"> </script>
+		<script src = "chart-it.js"> </script>	'
 	on to the bottom of your website.
 </p>
