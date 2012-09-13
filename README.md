@@ -24,5 +24,5 @@
 </p>
 
 <p>
-	For example, to add "Favorite Language" as a title, type in <code>#title : Favorite Programming Language;</code>
+	For example, to add "Favorite Language" as a title, type in <code><d>#title : Favorite Programming Language;</code>
 </p>
