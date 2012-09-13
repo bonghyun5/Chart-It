@@ -3,7 +3,7 @@
 <p>
 	Chart-It is an tool written in javascript and jQuery to help web developers easily create elegant and fully-customizable charts.</br>
 	It is still in its early developmental stage, and lots of features wil be added later.</br>
-	It is created by Bonghyun Kim.
+	It is created by <a href="http://www.bonghyunkim.com/">Bonghyun Kim</a>.
 </p>
 <h2> How to use Chart-It</h2>
 <p>
@@ -11,7 +11,7 @@
 </p>
 <p>
 	Add the Syntax:
-	'	<script src = "jq.js"> </script>
-		<script src = "chart-it.js"> </script>	'
+	<code>	<script src = "jq.js"> </script>
+		<script src = "chart-it.js"> </script>	</code>
 	on to the bottom of your website.
 </p>
