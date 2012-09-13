@@ -21,7 +21,7 @@
 </p>
 <h3> Creating Title </h3>
 <p>
-	In your div with id = "poll-creator", type in <code>#title : Title;</code> to create a title
+	In your div with id = "poll-creator", type in <code>#title : Title;</code>
 </p>
 <h3> Customizing Colors</h3>
 <p>
