@@ -10,8 +10,11 @@
 	To use Chart-It, simply download both (1)Chart-It.js and (2) jq.js [Minified jQuery]
 </p>
 <p>
-	Add the Syntax:
-	<code>	&<script> src = "jq.js" </code>
-		<code> &script src = "chart-it.js"	</code>
-	on to the bottom of your website.
+	Add both Chart-It.js and jq.js on to the bottom of your html file.
+</p>
+<p>
+	In any part of your html file, add a div with id = "poll-creator". This div will automatically be hidden.
+</p>
+<p>
+	In your html file, add a canvas element with id = "poll-display". Customize the height and width with width = "100" and height = "200" tags.
 </p>
