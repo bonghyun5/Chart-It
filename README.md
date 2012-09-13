@@ -18,3 +18,11 @@
 <p>
 	In your html file, add a canvas element with id = "poll-display". Customize the height and width with width = "100" and height = "200" tags.
 </p>
+
+<p>
+	In your div with id = "poll-creator", #title and #color variables, each ending with ;. 
+</p>
+
+<p>
+	For example, to add "Favorite Language" as a title, type in <code> &#title : Favorite Programming Language;</code>
+</p>
