@@ -11,22 +11,33 @@
 	To use Chart-It, simply download both (1)Chart-It.js and (2) jq.js [Minified jQuery]
 </p>
 <p>
-	Add both Chart-It.js and jq.js on to the bottom of your html file.
+	Add Chart-It.js and jq.js in your html file.
 </p>
 <p>
-	In any part of your html file, add a div with id = "poll-creator". This div will automatically be hidden.
+	In any part of your site, add a div with id = "poll-creator". This div will automatically be hidden.
 </p>
 <p>
-	In your html file, add a canvas element with id = "poll-display". Customize the height and width with width = "100" and height = "200" tags.
+ 	Add a canvas element with id = "poll-display". Customize the height and width with width and height tags.
 </p>
-<h3> Create Title </h3>
+<h3> Creating Title </h3>
 <p>
 	In your div with id = "poll-creator", type in <code>#title : Title;</code> to create a title
 </p>
-<h3> Customize Colors</h3>
+<h3> Customizing Colors</h3>
 <p>
-	In your div with id = "poll-creator", type in <code>#color : red blue green;</code> to create a title
+	Color variables can be added with <code>#color : red blue green;</code>
 </p>
 <p>
 	Colors can be web-safe color names or hex codes.
+</p>
+<h3> Inputing chart variables </h3>
+<p>
+	Chart variables are written in the format <code>$name:number;</code>
+</p>
+<p>
+	Ex. <code> $Java: 49; $C: 50; </code>
+</p>
+<h2> Example </h2>
+<p>
+Example can be found in 	sample-chart-it.html
 </p>
