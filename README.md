@@ -6,6 +6,7 @@
 	It is created by <a href="http://www.bonghyunkim.com/">Bonghyun Kim</a>.
 </p>
 <h2> How to use Chart-It</h2>
+<h3> Setting Up </h3>
 <p>
 	To use Chart-It, simply download both (1)Chart-It.js and (2) jq.js [Minified jQuery]
 </p>
@@ -18,11 +19,14 @@
 <p>
 	In your html file, add a canvas element with id = "poll-display". Customize the height and width with width = "100" and height = "200" tags.
 </p>
-
+<h3> Create Title </h3>
 <p>
-	In your div with id = "poll-creator", #title and #color variables, each ending with ;. 
+	In your div with id = "poll-creator", type in <code>#title : Title;</code> to create a title
 </p>
-
+<h3> Customize Colors</h3>
 <p>
-	For example, to add "Favorite Language" as a title, type in <code><d>#title : Favorite Programming Language;</code>
+	In your div with id = "poll-creator", type in <code>#color : red blue green;</code> to create a title
+</p>
+<p>
+	Colors can be web-safe color names or hex codes.
 </p>
